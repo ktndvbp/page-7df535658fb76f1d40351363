@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c966a33a5f1665fd6521a0b8",
+  "owner": "ktndvbp",
+  "repo": "page-7df535658fb76f1d40351363",
+  "title": "破烂小屋",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7df535658fb76f1d40351363",
+      "a": "破烂小屋",
+      "b": "2027官方最新地址导航",
+      "entity": "破烂小屋",
+      "brand": "破烂小屋",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "29e10a49fc381ae42b132ee1cdee5cd2556dcfc7a71f7064f1ce74fe976ec819",
+      "content": {
+        "primary_entity": "破烂小屋",
+        "keyword1": "破烂小屋",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_HERO_SUBTITLE": "破烂小屋，轻装加速",
+          "AI_HERO_INTRO": "破烂小屋面向跨境访问场景，提供基础版、旗舰版与团队版三档套餐。月付与年付并行，按设备数量与流量需求挑选即可，订阅配置后可覆盖浏览、流媒体与游戏等常见用途。",
+          "AI_VISUAL_TITLE": "破烂小屋，选套餐轻加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人到团队",
+          "AI_HIGHLIGHT_2": "年付价格为月付约十个月",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏优化",
+          "AI_FEATURES_TITLE": "选择破烂小屋的三个要点",
+          "AI_FEATURES_INTRO": "先看设备数量，再看流量，最后看周期。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线数量匹配。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档，轻度浏览与高清观看分别对应不同规格。",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_FEATURE_TEXT_3": "年付为月付约十个月，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐规格对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量与线路类型上区分。基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点。年付方案分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认设备与流量，再按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与每月流量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对当前系统与客户端是否满足所选套餐的连接与线路要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端的导入说明添加订阅信息，连接后确认节点与流量状态。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "破损小屋订阅可在常见桌面与移动客户端中使用，具体可用性以客户端文档为准。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_CLOSING_TEXT": "按设备与流量选定档位，再按客户端说明配置订阅即可开始使用。",
+          "AI_DESCRIPTION": "，破烂小屋提供基础版、旗舰版与团队版三档套餐，分别对应 3 台、5 台与 20 台设备，月流量从 100GB 到 1000GB。旗舰版含 IPLC 专线与流媒体解锁，团队版提供 VIP 高带宽节点，年付为月付约十个月。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "破烂小屋套餐怎么选最合适？",
+          "AI_FAQ_ANSWER_1": "先看同时在线设备数和每月流量。1到3台设备、100GB内选基础版；需要流媒体解锁和游戏加速选旗舰版；多设备或团队使用选团队版。",
+          "AI_FAQ_QUESTION_2": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元、旗舰版350元、团队版850元，折合月费均低于月付价格，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备？",
+          "AI_FAQ_ANSWER_3": "常见平台如Windows、macOS、Android、iOS均有主流客户端可选，具体兼容情况随客户端版本变化，使用前建议核对客户端文档。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "选择对应系统的客户端，在订阅管理里粘贴订阅链接并更新，节点列表出现后即可选择线路。导入失败时检查链接是否完整、客户端是否为较新版本。",
+          "AI_FAQ_QUESTION_5": "流量用超了怎么办？",
+          "AI_FAQ_ANSWER_5": "套餐流量按自然月重置，用超后可等待重置或升级到更高档位。团队版1000GB流量适合多设备重度使用，可按需调整。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fczfypm.cn",
+    "host": "fczfypm.cn"
+  },
+  "file_hashes": {
+    "index.html": "2dc284c675077ef68ce92f07f57ec672432189d97d3ea56b626a6a5d30880901",
+    "sitemap.xml": "72267aaa0dc48979e954215f95097471e141c61d28d3cc2803272216af641cc0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a8c24ce9b740395ac20ad359e10a7eb18e50ca72615f386ec0035de2fe5fd4d",
+    "robots.txt": "642c9616d679bdc8502da22d6b548b60aed419cebd08694e3bb4eed4a786faaf",
+    "e96d9e7b2c0272353009a32be88f4e95.txt": "af41debb01f6889204dad273818951600b1e64551c351a167980281800de1727"
+  },
+  "revision": "6839f78f34a3a12abdedb88c5389f26ce05be851164abcb14d74f12f530b6054"
+}
